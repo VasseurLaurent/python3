@@ -37,4 +37,4 @@ BSD
 Author Information
 ------------------
 
-Laurent VASSEUR (LVA04)
+Laurent VASSEUR
