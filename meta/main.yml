@@ -38,8 +38,12 @@ galaxy_info:
   platforms:
   - name: Debian
     versions:
-    - stretch
-    - buster
+      - stretch
+      - buster
+
+  - name: Ubuntu
+    versions:
+      - bionic
   # - name: SomePlatform
   #   versions:
   #   - all
