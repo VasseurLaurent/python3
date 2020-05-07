@@ -3,7 +3,7 @@
 - name: Install python
   apt:
     name: "{{ packages }}"
-    state: latest
+    state: present
   vars:
     packages:
       - python
