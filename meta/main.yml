@@ -38,8 +38,7 @@ galaxy_info:
   platforms:
   - name: Debian
     versions:
-    - 10
-    - 9
+    - all
   # - name: SomePlatform
   #   versions:
   #   - all
